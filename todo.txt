@@ -1,0 +1,11 @@
+TODO:
+
+	menu
+
+	contact form + map
+
+	footer
+
+	wedo (col-md-6) * 2
+
+	TYPES OF WOOD - написать
